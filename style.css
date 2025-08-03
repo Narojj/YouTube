@@ -1,0 +1,11 @@
+ button {
+    background-color: rgb(201, 0, 0);
+    color: white;
+    border: none;
+    height: 34px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 1s;
+  }
